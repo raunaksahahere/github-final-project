@@ -15,3 +15,4 @@ interest=$(echo "$principal * $rate * $time" | bc)
 
 # Display the result
 echo "Simple Interest: $interest"
+#this is for pull request
